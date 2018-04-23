@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Note" max_length="40" name="x_58872_needit_note" type="collection">
+        <element label="Note" max_length="100" name="note" type="string"/>
+        <element label="Number" max_length="20" name="number" type="string"/>
+        <element display="true" label="Title" max_length="50" name="title" type="string"/>
+    </element>
+</database>
